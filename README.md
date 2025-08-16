@@ -53,7 +53,6 @@ Backend development (Java, Spring Boot)
 RESTful APIs and microservices
 Feel free to reach out if you have any exciting opportunities or ideas!
 
-📫 Contact Me
 
 ## 📫 Contact Me  
 
