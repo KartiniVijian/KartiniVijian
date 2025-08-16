@@ -30,7 +30,7 @@ I enjoy working on **AI, blockchain, and data-driven applications**, and I am al
 
 - **Korean Language & Literature**  
   University of Seoul, South Korea | 2019
-  - Projects: Work with a team on frontend to update their exsisting website to the latest user interface.
+  - Projects: Collaborated on a team to modernize an existing website, updating its frontend to a new user interface  
 
 ---
 
