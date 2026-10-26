@@ -88,15 +88,6 @@ I'm a software technology master's student focused on **AI engineering, LLM-powe
 
 </div>
 
-## 📊 GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KartiniVijian&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartiniVijian&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=KartiniVijian&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
 ## 🌱 Currently exploring
 
 - 🛡️ Security and evaluation of LLM-powered agents
