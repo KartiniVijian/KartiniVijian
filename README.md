@@ -28,10 +28,10 @@
 
 I'm completing my M.Sc. in Software Technology and focusing on **AI engineering, LLM-powered systems, and intelligent automation**. My work spans hands-on implementation, testing and evaluation, and translating technical ideas into useful products. I like understanding systems from the inside—not just connecting APIs, but testing how they behave and where they can fail.
 
-- 🤖 **AI & LLMs** — experimenting with local models, agent workflows, and LLM application development.
-- 🔐 **LLM security** — researching adversarial seller manipulation and layered defenses for AI-powered shopping agents.
-- ⚙️ **Automation** — connecting AI models, APIs, and business tools with workflows using n8n and Notion.
-- 🚀 **Product building** — developing LocalLogic, an idea to help newcomers understand everyday rules in Germany.
+- 🤖 **AI & LLMs** - experimenting with local models, agent workflows, and LLM application development.
+- 🔐 **LLM security** - researching adversarial seller manipulation and layered defenses for AI-powered shopping agents.
+- ⚙️ **Automation** - connecting AI models, APIs, and business tools with workflows using n8n and Notion.
+- 🚀 **Product building** - developing LocalLogic, an idea to help newcomers understand everyday rules in Germany.
 
 > I want to build AI systems that are not just impressive in a demo, but useful, reliable, and secure.
 
