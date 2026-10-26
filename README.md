@@ -26,7 +26,7 @@
 
 ## `$ whoami`
 
-I'm completing my M.Sc. in Software Technology and focusing on **AI engineering, LLM-powered systems, and intelligent automation**. My work spans hands-on implementation, testing and evaluation, and translating technical ideas into useful products. I like understanding systems from the inside—not just connecting APIs, but testing how they behave and where they can fail.
+I'm completing my M.Sc. in Software Technology and focusing on **AI engineering, LLM-powered systems, and intelligent automation**. My work spans hands-on implementation, testing and evaluation, and translating technical ideas into useful products. I like understanding systems from the inside, not just connecting APIs, but testing how they behave and where they can fail.
 
 - 🤖 **AI & LLMs** - experimenting with local models, agent workflows, and LLM application development.
 - 🔐 **LLM security** - researching adversarial seller manipulation and layered defenses for AI-powered shopping agents.
