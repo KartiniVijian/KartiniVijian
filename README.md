@@ -26,7 +26,7 @@
 
 ## `$ whoami`
 
-I'm a software technology master's student focused on **AI engineering, LLM-powered systems, and intelligent automation**. I enjoy building things, testing how they behave, and figuring out how to make them more useful, reliable, and secure.
+I'm completing my M.Sc. in Software Technology and focusing on **AI engineering, LLM-powered systems, and intelligent automation**. My work spans hands-on implementation, testing and evaluation, and translating technical ideas into useful products. I like understanding systems from the inside—not just connecting APIs, but testing how they behave and where they can fail.
 
 - 🤖 **AI & LLMs** — experimenting with local models, agent workflows, and LLM application development.
 - 🔐 **LLM security** — researching adversarial seller manipulation and layered defenses for AI-powered shopping agents.
@@ -41,28 +41,28 @@ I'm a software technology master's student focused on **AI engineering, LLM-powe
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 LLM Shopping-Agent Security</h3>
-      <p>My current research explores how manipulative product listings can influence LLM-powered shopping agents and how layered defenses can reduce that risk.</p>
-      <p><code>Python</code> <code>LangChain</code> <code>Ollama</code> <code>LLaMA 3.1</code></p>
-      <p><em>Research focus: adversarial testing, guardrails, and evaluation.</em></p>
+      <p>Thesis research into adversarial seller manipulation of LLM-powered shopping agents. Built a local testbed with LLaMA 3.1 8B and evaluated layered defenses against prompt injection, cognitive-bias tactics, and trust-abuse patterns.</p>
+      <p><code>Python</code> <code>LangChain</code> <code>Ollama</code> <code>LLM Evaluation</code></p>
+      <p><em>Focus: reproducible experiments, defense design, and testing.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 MyLang</h3>
-      <p>A programming-language project exploring language design and implementation.</p>
-      <p><code>Programming Languages</code></p>
+      <p>A beginner-friendly programming language using culturally inclusive keywords from Malay, Kazakh, and Chinese. Implemented with JavaCC and an AST, with interpretation and Java/Python code generation.</p>
+      <p><code>Java</code> <code>JavaCC</code> <code>AST</code></p>
       <a href="https://github.com/KartiniVijian/MyLang">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📰 NYT Telegram Segmentation</h3>
-      <p>A project focused on AI-based segmentation of content from a New York Times Telegram channel.</p>
-      <p><code>Python</code> <code>NLP</code> <code>Data Processing</code></p>
+      <h3>📰 NYT Telegram Data Pipeline</h3>
+      <p>A data retrieval and enrichment pipeline for New York Times Telegram messages, combining segmentation, sentiment analysis, named-entity recognition, keyword tagging, and retrieval-ready storage.</p>
+      <p><code>Python</code> <code>NLP</code> <code>RAG</code> <code>Docker</code></p>
       <a href="https://github.com/KartiniVijian/Dibuco-NYT-Segmentation-Project">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 LLM Fundamentals</h3>
-      <p>Hands-on learning and implementation work exploring the building blocks behind large language models.</p>
-      <p><code>Python</code> <code>Tokenization</code> <code>LLMs</code></p>
+      <p>Hands-on implementations exploring how language models work, including building a Byte Pair Encoding (BPE) tokenizer from the ground up.</p>
+      <p><code>Python</code> <code>Tokenization</code> <code>LLM Internals</code></p>
       <a href="https://github.com/KartiniVijian/llm-fundamentals">View repository →</a>
     </td>
   </tr>
@@ -88,12 +88,14 @@ I'm a software technology master's student focused on **AI engineering, LLM-powe
 
 </div>
 
-## 🌱 Currently exploring
+## 🔬 Engineering interests
 
-- 🛡️ Security and evaluation of LLM-powered agents
-- 🧰 Testing strategies for more reliable AI systems
-- 🔗 Local LLMs, tool use, and agent workflows
-- 💡 Turning early-stage ideas into practical products
+- 🛡️ Evaluating security risks in LLM-powered agents
+- 🧪 Building testable, reproducible AI experiments
+- 🔤 Understanding LLM internals through small implementations
+- 🔗 Connecting models, tools, APIs, and business workflows
+
+I prefer learning by building small, inspectable systems and documenting what works, what fails, and why.
 
 ## 💡 Beyond the code: LocalLogic
 
