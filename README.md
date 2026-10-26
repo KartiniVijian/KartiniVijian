@@ -1,5 +1,5 @@
 <!--
-  Kartini Vijian | AI Engineering & Product Building
+  Kartini Vijian | AI Founder & Builder
   Profile README: https://github.com/KartiniVijian
 -->
 
@@ -7,78 +7,89 @@
 
 # Hey, I'm Kartini 👋
 
-### AI Engineering · LLM Security · Intelligent Automation
+### AI Founder & Builder · From messy problems to useful products
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=8B8BFF&center=true&vCenter=true&width=680&lines=Building+smarter+AI+systems+%F0%9F%A4%96;Exploring+LLM+security+%26+AI+agents+%F0%9F%94%90;Turning+ideas+into+useful+products+%F0%9F%9A%80;Automating+the+boring+stuff+%E2%9A%A1" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=8B8BFF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%F0%9F%9A%80;Turning+real+problems+into+practical+solutions+%F0%9F%92%A1;Experimenting+with+LLMs+and+intelligent+agents+%F0%9F%A4%96;Automating+workflows+that+give+people+time+back+%E2%9A%A1" alt="Building AI-powered products, solving real problems, and experimenting with AI" />
 </p>
 
 <p>
-  <a href="https://github.com/KartiniVijian?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-7C83FD?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://www.linkedin.com/in/kartini-vijian/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/KartiniVijian?tab=repositories"><img src="https://img.shields.io/badge/Explore%20what%20I'm%20building-7C83FD?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://www.linkedin.com/in/kartini-vijian/"><img src="https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
-📍 Stuttgart, Germany · 🎓 M.Sc. Software Technology · 💡 AI & Automation
+📍 Stuttgart, Germany · 🎓 M.Sc. Software Technology · 🚀 AI, products & entrepreneurship
 
 </div>
 
 ---
 
-## `$ whoami`
+## A little about me
 
-I'm completing my M.Sc. in Software Technology and focusing on **AI engineering, LLM-powered systems, and intelligent automation**. My work spans hands-on implementation, testing and evaluation, and translating technical ideas into useful products. I like understanding systems from the inside, not just connecting APIs, but testing how they behave and where they can fail.
+I'm an aspiring **AI founder and builder** with a software technology background. I enjoy taking a real-world problem, breaking it down, and building something practical around it—whether that's an AI-powered product, an automation workflow, or a small experiment to understand how a technology works.
 
-- 🤖 **AI & LLMs** - experimenting with local models, agent workflows, and LLM application development.
-- 🔐 **LLM security** - researching adversarial seller manipulation and layered defenses for AI-powered shopping agents.
-- ⚙️ **Automation** - connecting AI models, APIs, and business tools with workflows using n8n and Notion.
-- 🚀 **Product building** - developing LocalLogic, an idea to help newcomers understand everyday rules in Germany.
+I'm interested in the space where **AI, product thinking, and everyday problems meet**. I care about more than making a demo work: I want to understand the user need, test assumptions, and build systems people can actually rely on.
 
-> I want to build AI systems that are not just impressive in a demo, but useful, reliable, and secure.
+- 💡 **Product mindset** — start with a problem worth solving, then build and learn.
+- 🤖 **AI building** — LLM applications, local models, agent workflows, and evaluation.
+- ⚙️ **Automation** — connecting models, APIs, and business tools with n8n and Notion.
+- 🧪 **Learn by making** — prototypes, experiments, tests, and documenting what I discover.
 
-## 🚀 Projects to explore
+> I want to build technology that makes complicated things simpler and gives people more confidence to navigate the world.
+
+## 🚀 What I'm building toward
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 LLM Shopping-Agent Security</h3>
-      <p>Thesis research into adversarial seller manipulation of LLM-powered shopping agents. Built a local testbed with LLaMA 3.1 8B and evaluated layered defenses against prompt injection, cognitive-bias tactics, and trust-abuse patterns.</p>
-      <p><code>Python</code> <code>LangChain</code> <code>Ollama</code> <code>LLM Evaluation</code></p>
-      <p><em>Focus: reproducible experiments, defense design, and testing.</em></p>
+      <h3>🌍 LocalLogic</h3>
+      <p><strong>Making everyday life in Germany easier for newcomers.</strong></p>
+      <p>LocalLogic is my startup idea to help migrants and newcomers understand German laws and everyday rules, so they can make more informed decisions and avoid preventable fines.</p>
+      <p><em>Problem discovery · Product thinking · AI for everyday life</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 MyLang</h3>
-      <p>A beginner-friendly programming language using culturally inclusive keywords from Malay, Kazakh, and Chinese. Implemented with JavaCC and an AST, with interpretation and Java/Python code generation.</p>
-      <p><code>Java</code> <code>JavaCC</code> <code>AST</code></p>
-      <a href="https://github.com/KartiniVijian/MyLang">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📰 NYT Telegram Data Pipeline</h3>
-      <p>A data retrieval and enrichment pipeline for New York Times Telegram messages, combining segmentation, sentiment analysis, named-entity recognition, keyword tagging, and retrieval-ready storage.</p>
-      <p><code>Python</code> <code>NLP</code> <code>RAG</code> <code>Docker</code></p>
-      <a href="https://github.com/KartiniVijian/Dibuco-NYT-Segmentation-Project">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 LLM Fundamentals</h3>
-      <p>Hands-on implementations exploring how language models work, including building a Byte Pair Encoding (BPE) tokenizer from the ground up.</p>
-      <p><code>Python</code> <code>Tokenization</code> <code>LLM Internals</code></p>
-      <a href="https://github.com/KartiniVijian/llm-fundamentals">View repository →</a>
+      <h3>🔐 Safer AI agents</h3>
+      <p><strong>Exploring how to make AI decisions more trustworthy.</strong></p>
+      <p>My thesis investigates how manipulative product listings can influence LLM-powered shopping agents, and tests layered defenses using a local LLaMA 3.1 8B testbed.</p>
+      <p><em>Python · LangChain · Ollama · Evaluation</em></p>
     </td>
   </tr>
 </table>
 
-## 🛠️ My toolkit
+## 🧰 Projects & experiments
+
+A few things I've explored by building them:
+
+### 🧩 [LLM Fundamentals](https://github.com/KartiniVijian/llm-fundamentals)
+Hands-on work to understand the building blocks behind large language models, including implementing a Byte Pair Encoding (BPE) tokenizer.
+
+**Python · Tokenization · LLM internals**
+
+### 🧠 [MyLang](https://github.com/KartiniVijian/MyLang)
+A beginner-friendly programming language with culturally inclusive keywords from Malay, Kazakh, and Chinese. Built with JavaCC and an AST, with interpretation and Java/Python code generation.
+
+**Java · JavaCC · Language design**
+
+### 📰 [NYT Telegram Data Pipeline](https://github.com/KartiniVijian/Dibuco-NYT-Segmentation-Project)
+A data retrieval and enrichment pipeline for New York Times Telegram messages, combining segmentation, sentiment analysis, named-entity recognition, keyword tagging, and retrieval-ready storage.
+
+**Python · NLP · RAG · Docker**
+
+## ⚡ Things I like building
+
+- **AI prototypes** that turn an idea into something testable
+- **Automation workflows** that connect APIs and reduce repetitive work
+- **LLM experiments** that explore model behavior, security, and reliability
+- **Small tools and technical demos** that make complex concepts easier to understand
+
+## 🛠️ Tools in my builder toolkit
 
 <div align="center">
 
-**Languages & development**
-
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,docker,postgres&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Git, Docker and PostgreSQL" />
 
-**AI, LLMs & automation**
+<br/><br/>
 
-<br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/LLaMA%203.1-0467DF?style=flat-square" alt="LLaMA 3.1" />
@@ -88,33 +99,25 @@ I'm completing my M.Sc. in Software Technology and focusing on **AI engineering,
 
 </div>
 
-## 🔬 Engineering interests
+## 🌱 What I'm learning
 
-- 🛡️ Evaluating security risks in LLM-powered agents
-- 🧪 Building testable, reproducible AI experiments
-- 🔤 Understanding LLM internals through small implementations
-- 🔗 Connecting models, tools, APIs, and business workflows
+- Turning early-stage ideas into products people want to use
+- Building and evaluating more reliable LLM-powered systems
+- Understanding LLM internals by implementing them hands-on
+- Connecting AI capabilities to practical workflows and real user needs
 
-I prefer learning by building small, inspectable systems and documenting what works, what fails, and why.
+## 🤝 Let's build something useful
 
-## 💡 Beyond the code: LocalLogic
-
-I'm developing **LocalLogic**, a startup idea to help migrants and newcomers better understand German laws and everyday rules, so they can navigate daily life with more confidence and avoid preventable fines.
-
-I care about technology that makes complicated things easier for people.
-
-## 🤝 Let's connect
-
-Interested in AI engineering, LLM security, automation, or building early-stage products? I'd love to connect and exchange ideas.
+I'm always happy to connect with people working on AI products, early-stage startups, automation, or technology with a meaningful real-world use case.
 
 <div align="center">
 
-<a href="https://github.com/KartiniVijian"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/kartini-vijian/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/KartiniVijian?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub work" /></a>
+<a href="https://www.linkedin.com/in/kartini-vijian/"><img src="https://img.shields.io/badge/LinkedIn-Say%20hello-0A66C2?style=for-the-badge&logo=linkedin" alt="Say hello on LinkedIn" /></a>
 
 <br/><br/>
 
-<em>Stay curious. Build thoughtfully. Keep experimenting. ✨</em>
+<em>Build with curiosity. Solve with empathy. Improve by shipping. ✨</em>
 
 <img src="https://komarev.com/ghpvc/?username=KartiniVijian&style=flat-square&color=8B8BFF&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
